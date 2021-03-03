@@ -12,8 +12,8 @@ function Sheet({ items, onSort, sortKey }) {
   };
 
   return (
-    <table onClick={sort} className="sheet" border="1">
-      <thead>
+    <table className="sheet" border="1">
+      <thead onClick={sort}>
         <tr className="sheet-title">
           <th className="number">№</th>
           <th className="value">Content</th>
