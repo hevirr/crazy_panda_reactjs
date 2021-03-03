@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crazy_panda_reactjs/static/css/main.6c57af19.chunk.css",
+    "main.js": "/crazy_panda_reactjs/static/js/main.cdc394bf.chunk.js",
+    "main.js.map": "/crazy_panda_reactjs/static/js/main.cdc394bf.chunk.js.map",
+    "runtime-main.js": "/crazy_panda_reactjs/static/js/runtime-main.b078a1e2.js",
+    "runtime-main.js.map": "/crazy_panda_reactjs/static/js/runtime-main.b078a1e2.js.map",
+    "static/js/2.bb870756.chunk.js": "/crazy_panda_reactjs/static/js/2.bb870756.chunk.js",
+    "static/js/2.bb870756.chunk.js.map": "/crazy_panda_reactjs/static/js/2.bb870756.chunk.js.map",
+    "index.html": "/crazy_panda_reactjs/index.html",
+    "static/css/main.6c57af19.chunk.css.map": "/crazy_panda_reactjs/static/css/main.6c57af19.chunk.css.map",
+    "static/js/2.bb870756.chunk.js.LICENSE.txt": "/crazy_panda_reactjs/static/js/2.bb870756.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b078a1e2.js",
+    "static/js/2.bb870756.chunk.js",
+    "static/css/main.6c57af19.chunk.css",
+    "static/js/main.cdc394bf.chunk.js"
+  ]
+}
